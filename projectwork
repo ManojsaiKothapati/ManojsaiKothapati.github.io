@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<title> Manoj Sai</title>
+</head>
+<body>
+  <h1>Manoj Sai Kothapati</h1>
+  <nav>
+	<a href="/first/">First</a> 
+	<a href="/second/">Second</a> 
+	<a href="/third/">Third</a> 
+	<a href="/fourth/">Fourth</a>
+  </nav>
+  <h2>Favourite Foods</h2>
+  <ul>
+ 	<li> Banana</li>
+ 	<li> Sandwich</li>
+ 	<li> Dosa </li>
+ 	<li> Fried Rice </li>
+  </ul>
+  <h2> Achievements</h2>
+  <label for="file1">Progress in this course (100%)</label>
+  <progress id="file1" value="100" max="100"> </progress>
+  <br>
+  <label for="file2">Progress in the specialization capstone (20%)</label>
+  <progress id="file2" value="20" max="100"> </progress>
+  <br>
+  <label for="file3">Progress in coding (40%)</label>
+  <progress id="file3" value="40" max="100"> </progress>
+  <h2>More About Me</h2>
+  <details>
+ 	<summary>My Childhood</summary>
+ 	<p>I born and studied schooling in Tirupati, India. I went to Thanjavur, India for my undergraduation.</p>
+  </details>
+  <img src=" http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E">
+  This page was created by Manoj Sai Kothapati and Colleen van Lent. To learn more about web design, visit <a href ="http://www.intro-webdesign.com"> Intro to Web Design</a>
+</body>
+</html>
